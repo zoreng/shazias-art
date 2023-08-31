@@ -1,0 +1,36 @@
+.art-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.art-item img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+.contact {
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 50px auto;
+    max-width: 400px;
+}
+
+.contact h2 {
+    color: #333;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.contact p {
+    font-size: 18px
